@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>405_Final</title>
+	<link rel="stylesheet" href="FFC405_Final_CSS.css">
+	
+	<style type="text/css">
+	a:link {
+    text-decoration: none;
+	}
+	a:visited {
+    text-decoration: none;
+	}
+	a:hover {
+    text-decoration: none;
+	}
+	a:active {
+    text-decoration: none;
+	}
+    </style>
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://use.typekit.net/vbt5orw.css">
+	
+</head>
+	
+<!--Header-->
+<body class = "Index.html">
+<header>
+	<header>
+    <div class="Container">
+		
+        <a href="index.html" class="item item-1">HOME</a>
+        <a href="about.html" class="item item-2">ABOUT ME</a>
+        <a href="exhibitions.html" class="item item-3">EXHIBITIONS</a>
+        <a href="portfolio.html" class="item item-4">PORTFOLIO</a>
+        <a href="contact.html" class="item item-5">CONTACT</a>
+		
+    </div>
+</header>
+</header>
+	
+<!--Text Container-->
+<p id="animated_text"></p>
+
+<script>
+var i = 0;
+var txt = "Hi! I'm Sanya, Welcome to my Portfolio!";
+var speed = 70;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("animated_text").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+
+// Call the typeWriter function to start the animation
+typeWriter();
+</script>
+
+<body>
+	
+<!--Home Title-->
+<div class = "header-name"> 
+	<img src= "SVG/Asset 2.svg" style="width:100%" alt="Portfolio in bubble lettering with stars" >
+	</div>	
+
+<!--SANYA SHARMA-->
+<div class = "name-container">
+	<button class = "name_button">SANYA SHARMA</button>
+</div>
+	
+
+</body>
+	
+</body>	
+</html>

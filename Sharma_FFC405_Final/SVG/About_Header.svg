@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1170.2 166.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff7bac;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: Bauhaus93, 'Bauhaus 93';
+        font-size: 150px;
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        stroke: #ed1c24;
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ed1c24;
+      }
+
+      .cls-4 {
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Title">
+    <g>
+      <text class="cls-3" transform="translate(142.98 127.02)"><tspan x="0" y="0">HI! I’M SANYA</tspan></text>
+      <text class="cls-1" transform="translate(142.98 127.02)"><tspan x="0" y="0">HI! I’M SANYA</tspan></text>
+      <text class="cls-4" transform="translate(142.98 127.02)"><tspan x="0" y="0">HI! I’M SANYA</tspan></text>
+      <text class="cls-2" transform="translate(142.98 127.02)"><tspan x="0" y="0">HI! I’M SANYA</tspan></text>
+    </g>
+  </g>
+</svg>
